@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Banking And Trading Application**
+- 🔭 I’m currently working on ** Decentrailized Apps, Banking And Trading Application**
 
 - 🌱 I’m currently learning **Devops Tools**
-
-- 🤝 I’m looking for help with **Nodejs and MongoDB**
 
 - 💬 Ask me about **Nodejs,MongoDB, Git, Github, Docker, Kubernetes,Swagger, Java8, Redis, Kafka, ReactJS, HTML CSS, Material UI, VueJS, Servers, Deployment**
 
